@@ -1,0 +1,43 @@
+html{
+    background-color: rgb(205, 136, 89);
+}
+
+*{
+    border: solid 1px rgb(237, 230, 208);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.title h1{
+    color: rgb(250, 236, 189);
+    font: "BBH Sans Bartle", sans-serif;
+}
+
+.bbh-sans-bartle-regular {
+  font-family: "BBH Sans Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav a {
+    color: rgb(250, 236, 189);
+    text-decoration: none;
+    background-color: 
+
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding: 1px;
+    border-radius: 5px;
+
+}
